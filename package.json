@@ -4,7 +4,7 @@
   "description": "Your app description",
   "main": "server.js",
   "scripts": {
-    "start": "node sum.js"
+    "start": "node server.js"
   },
   "dependencies": {
     "express": "^4.17.1",
